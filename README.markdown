@@ -55,6 +55,8 @@ YOUR_GIFS_HERE!!!!!
 ### Shameless N. Cage:
 ![](http://i.giphy.com/bn0zlGb4LOyo8.gif)
 
-
 The Earth:
 ![](http://media.giphy.com/media/rVz1J8spLtUtO/giphy.gif)
+
+### Dog
+![](http://1-ps.googleusercontent.com/hk/Jku0U761oIjGsh_dDfKZXu3jUU/www.doggifpage.com/gifs/115.gif.pagespeed.ce.23SwT6ijlmAZN93GYaTK.gif)
