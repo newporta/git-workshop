@@ -51,3 +51,6 @@ Remember, all of this work is on the pull_request branch.
 
 
 YOUR_GIFS_HERE!!!!!
+
+### Shameless N. Cage:
+![](http://i.giphy.com/bn0zlGb4LOyo8.gif)
