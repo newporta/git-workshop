@@ -54,3 +54,7 @@ YOUR_GIFS_HERE!!!!!
 
 ### Shameless N. Cage:
 ![](http://i.giphy.com/bn0zlGb4LOyo8.gif)
+
+
+The Earth:
+![](http://media.giphy.com/media/rVz1J8spLtUtO/giphy.gif)
