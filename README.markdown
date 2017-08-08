@@ -487,7 +487,7 @@ I throughly recommend these resources to continue your Git practice:
 -   <a href="http://git-scm.com">http://git-scm.com</a> Official
     website, with very useful help, book and videos
 -   <a href="http://gitref.org">http://gitref.org</a>
--   <a href="http://www.kernel.org/pub/software/scm/git/docs/everyday.html">http://www.kernel.org/pub/software/scm/git/docs/everyday.html</a>
+-   <a href="https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html">http://www.kernel.org/pub/software/scm/git/docs/everyday.html</a>
 
 Author
 ------
