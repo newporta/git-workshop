@@ -232,9 +232,9 @@ The `*` should indicate the current branch you are on, which is
 `master`.
 
 If you wish to start another branch, use
-`git checkout -b (new-branch-name)` :
+`git branch (new-branch-name)` :
 
-    $ git checkout -b exp1
+    $ git branch exp1
 
 Try git branch again to check which branch you are currently on:
 
