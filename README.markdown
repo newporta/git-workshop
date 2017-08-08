@@ -249,6 +249,8 @@ to the new branch:
 
 `git checkout (branch-name)` is used to switch branches.
 
+`git checkout -b (new-branch-name)` can be used to create a new branch and switch to it in one command.
+
 Let’s perform some commits now,
 
     $ echo 'some content' > test.txt
