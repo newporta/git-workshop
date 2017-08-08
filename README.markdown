@@ -232,9 +232,9 @@ The `*` should indicate the current branch you are on, which is
 `master`.
 
 If you wish to start another branch, use
-`git checkout -b (new-branch-name)` :
+`git branch (new-branch-name)` :
 
-    $ git checkout -b exp1
+    $ git branch exp1
 
 Try git branch again to check which branch you are currently on:
 
@@ -248,6 +248,8 @@ to the new branch:
     $ git checkout exp1
 
 `git checkout (branch-name)` is used to switch branches.
+
+`git checkout -b (new-branch-name)` can be used to create a new branch and switch to it in one command.
 
 Let’s perform some commits now,
 
@@ -487,7 +489,7 @@ I throughly recommend these resources to continue your Git practice:
 -   <a href="http://git-scm.com">http://git-scm.com</a> Official
     website, with very useful help, book and videos
 -   <a href="http://gitref.org">http://gitref.org</a>
--   <a href="http://www.kernel.org/pub/software/scm/git/docs/everyday.html">http://www.kernel.org/pub/software/scm/git/docs/everyday.html</a>
+-   <a href="https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html">http://www.kernel.org/pub/software/scm/git/docs/everyday.html</a>
 
 Author
 ------
